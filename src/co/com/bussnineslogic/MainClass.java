@@ -73,6 +73,7 @@ public class MainClass {
 		List<Aprendiz> crunchifyList = new ArrayList<Aprendiz>();
 		crunchifyList.add(esteban);
 		crunchifyList.add(daniel);
+		crunchifyList.add(mariana);
 
 		System.out.println("==> For Loop Example of Aprendiz.");
 		for (int i = 0; i < crunchifyList.size(); i++) {
